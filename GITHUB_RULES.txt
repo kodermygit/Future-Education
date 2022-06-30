@@ -1,0 +1,7 @@
+touch .gitignore(to ignore files to upload)
+git conflig --global user.name "Ranjan Kumar"
+git conflig --global user.email "ranjankumar2r634@gmail.com"
+git init(to intialize the process)
+git add .
+git commit -m "Intial Commit"
+git status (Just to see)
